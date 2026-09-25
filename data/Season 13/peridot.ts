@@ -7,7 +7,7 @@ Season13.Runs.push(
 		StartDate: "2026-08-08T21:00:00Z",
 		Duration: "255d",
 		HostName: "B",
-		HostImage: "img/hosts/b2.png",
+		HostImage: "img/hosts/b3.png",
 		//HostImageSource: "",
 		Region: "Peridot",
 		Generation: 2,
